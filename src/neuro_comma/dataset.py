@@ -1,4 +1,5 @@
-from typing import Dict, List, Optional, Tuple, TypedDict, Union
+from typing import Dict, List, Optional, Tuple, Union
+from typing_extensions import TypedDict
 
 import numpy as np
 import torch
@@ -43,7 +44,8 @@ class BaseDataset(torch.utils.data.Dataset):
         with open(file_path, 'r', encoding='utf-8') as file:
             x, y = [], []
             for i, line in enumerate(file):
-                if (line := line.strip()):
+                if (line.strip()):
+                    line = line.strip()
                     token = line.rsplit('\t', 1)
                     if len(token) == 2:
                         x.append(token[0])

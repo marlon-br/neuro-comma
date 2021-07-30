@@ -154,3 +154,10 @@ files/
 !**/*.dvc
 
 docker-compose.debug.yml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/neuro-comma.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml

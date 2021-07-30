@@ -119,7 +119,8 @@ def get_last_epoch_params(weights_dir: Path) -> Tuple[int, float]:
     """
     weights = list(weights_dir.glob('**/*.pt'))
     last_weight = str(sorted(weights)[-1])
-    if (match := re.search(r'_ep(\d+)_(\d+)\.pt', last_weight)):
+    if (re.search(r'_ep(\d+)_(\d+)\.pt', last_weight)):
+        match = re.search(r'_ep(\d+)_(\d+)\.pt', last_weight)
         epoch = int(match.group(1))
         best_acc = float('0.' + match.group(2))
         return epoch, best_acc
