@@ -66,6 +66,7 @@ else:
         MODEL.modify_last_linear(in_features=MODEL.hidden_size * 2,
                                  out_features=len(TARGETS))
 
+MODEL = nn.DataParallel(MODEL)
 MODEL.to(DEVICE)
 
 WEIGHTS = torch.FloatTensor(args.weights).to(DEVICE) if args.weights else None
