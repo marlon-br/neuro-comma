@@ -93,7 +93,7 @@ augmentation.alpha_del = args.alpha_del
 data_loader_params = {
     'batch_size': args.batch_size,
     'shuffle': True,
-    'num_workers': 1
+    'num_workers': 16
 }
 
 print('Loading train data...')
