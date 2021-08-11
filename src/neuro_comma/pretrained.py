@@ -53,6 +53,8 @@ PRETRAINED_MODELS = {
     'albert-large-v2': (AlbertModel, AlbertTokenizer, 1024, 'albert'),
 
     'DeepPavlov/rubert-base-cased-sentence': (AutoModel, AutoTokenizer, 768, 'bert'),
+    'dccuchile/bert-base-spanish-wwm-uncased': (BertModel, BertTokenizer, 768, 'bert'),
+    
 }
 
 # TODO:
