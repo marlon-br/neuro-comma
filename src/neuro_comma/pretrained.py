@@ -54,7 +54,8 @@ PRETRAINED_MODELS = {
 
     'DeepPavlov/rubert-base-cased-sentence': (AutoModel, AutoTokenizer, 768, 'bert'),
     'dccuchile/bert-base-spanish-wwm-uncased': (BertModel, BertTokenizer, 768, 'bert'),
-    
+    'skimai/spanberta-base-cased': (RobertaModel, RobertaTokenizer, 768, 'roberta'),
+    'xlm-roberta-large-finetuned-conll02-spanish': (XLMRobertaModel, XLMRobertaTokenizer, 1024, 'roberta'),
 }
 
 # TODO:
