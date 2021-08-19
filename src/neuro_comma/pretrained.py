@@ -46,6 +46,7 @@ PRETRAINED_MODELS = {
     'roberta-large': (RobertaModel, RobertaTokenizer, 1024, 'roberta'),
     'distilbert-base-uncased': (DistilBertModel, DistilBertTokenizer, 768, 'bert'),
     'distilbert-base-multilingual-cased': (DistilBertModel, DistilBertTokenizer, 768, 'bert'),
+    'bertin-project/bertin-base-gaussian-exp-512seqlen': (RobertaModel, RobertaTokenizer, 768, 'roberta'),
     'xlm-roberta-base': (XLMRobertaModel, XLMRobertaTokenizer, 768, 'roberta'),
     'xlm-roberta-large': (XLMRobertaModel, XLMRobertaTokenizer, 1024, 'roberta'),
     'albert-base-v1': (AlbertModel, AlbertTokenizer, 768, 'albert'),
