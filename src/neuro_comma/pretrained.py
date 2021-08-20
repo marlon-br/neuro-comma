@@ -58,6 +58,7 @@ PRETRAINED_MODELS = {
     'skimai/spanberta-base-cased': (RobertaModel, RobertaTokenizer, 768, 'roberta'),
     'xlm-roberta-large-finetuned-conll02-spanish': (XLMRobertaModel, XLMRobertaTokenizer, 1024, 'roberta'),
     'DeepPavlov/bert-base-multilingual-cased-sentence': (AutoModel, AutoTokenizer, 768, 'bert'),
+    'sentence-transformers/distiluse-base-multilingual-cased-v1': (DistilBertModel, DistilBertTokenizer, 768, 'bert'),
 }
 
 # TODO:
