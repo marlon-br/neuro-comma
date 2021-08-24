@@ -1,3 +1,12 @@
+Colab to prepare data for any language:
+https://colab.research.google.com/drive/1183eauq272NknyFgPdKJUBSCrPsuVWuY?usp=sharing
+Just set right language in LANG1 and LANG2 parameters
+
+
+
+
+
+
 # Neuro-comma
 
 This library was developed with the idea to help us to create punctuation restoration models to memorize trained parameters, data, training visualization, etc. The Library doesn't use any high-level frameworks, such as `PyTorch-lightning` or `Keras`, to reduce the level entry threshold.
