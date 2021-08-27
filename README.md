@@ -1,5 +1,5 @@
 Colab to prepare data for any language:
-https://colab.research.google.com/drive/1183eauq272NknyFgPdKJUBSCrPsuVWuY?usp=sharing
+https://colab.research.google.com/drive/1-EUY-Do3vR_h3htyjjAMR-zVQyUsaH-t?usp=sharing
 Just set right language in LANG1 and LANG2 parameters
 
 
