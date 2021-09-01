@@ -3,6 +3,7 @@ Repo with trained punctuation restoration models for https://github.com/sviperm/
 Colab to prepare data for any language:
 https://colab.research.google.com/drive/1-EUY-Do3vR_h3htyjjAMR-zVQyUsaH-t?usp=sharing
 Just set right language in LANG1 and LANG2 parameters
+And set the right UTF-8 characters for you language 
 
 All trained models are based on xlm-roberta-large, set it when call inference like 
 python inference.py --pretrained-model=roberta-large --weight-path=roberta-large-en.pt --language=en 
