@@ -11,8 +11,7 @@ Training Datasets in neuro-comma format:
 |Spanish|https://drive.google.com/file/d/1JHATFSu4amgz-cHcKXsSUyUs9T70kPa7/view?usp=sharing|476.7 MB|
 |German|https://drive.google.com/file/d/1Us6mMtPjOxUi1Mu_M1PHWTB9pxuwyod7/view?usp=sharing|721.9 MB|
 |Russian|https://drive.google.com/file/d/1-0MBsnGfId6AGxgPhnkO2gAxaDn1DWGQ/view?usp=sharing|584.7 MB|
-|French|https://drive.google.com/file/d/1--ocXMVscsIKghB9xzEUUeIVvJqY0qUX/view?usp=sharing|971.8 MB|
-  
+|French|https://drive.google.com/file/d/1--ocXMVscsIKghB9xzEUUeIVvJqY0qUX/view?usp=sharing|971.8 MB|  
   
 Neuro-comma (puntuation-restoration) format: Oh, nun ja, dann wird sie es wohl gewesen sein. Wo sind die Karten geblieben?  
 
@@ -40,7 +39,8 @@ Pretrained models:
 |Spanish|xlm-roberta-large|https://mega.nz/folder/bOZThATD#hie5QHgPF7VxNEhWx3uxDA|
 |German|xlm-roberta-large|https://mega.nz/folder/vGR0RZRT#2w1zF9VRNApaBscnEdvv6A|
 |Russian|xlm-roberta-large|https://mega.nz/folder/iWpGFD6B#iOe47mdLB6eE6ebwPbk_PA|
-French|xlm-roberta-large|https://mega.nz/folder/jDYgibSQ#3rZKjf46AWEVh5mqve3ncg|
+|French|xlm-roberta-large|https://mega.nz/folder/jDYgibSQ#3rZKjf46AWEVh5mqve3ncg|
+|English (from punctuation-restoration)|roberta-large|https://drive.google.com/file/d/17BPcnHVhpQlsOTC8LEayIFFJ7WkL00cr/view?usp=sharing|
 
 ## How it works
 https://github.com/sviperm/neuro-comma  
