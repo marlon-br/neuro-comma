@@ -9,6 +9,7 @@ Training Datasets in neuro-comma format:
 |---|----|
 |Portuguese|https://drive.google.com/file/d/1-0t7sskF3bKGeXiCOx4nL9R53-Z0f7ak/view?usp=sharing|
 |Spanish|https://drive.google.com/file/d/1JHATFSu4amgz-cHcKXsSUyUs9T70kPa7/view?usp=sharing|  
+|German|https://drive.google.com/file/d/1Us6mMtPjOxUi1Mu_M1PHWTB9pxuwyod7/view?usp=sharing|
   
   
 Neuro-comma (puntuation-restoration) format: Oh, nun ja, dann wird sie es wohl gewesen sein. Wo sind die Karten geblieben?  
@@ -35,6 +36,7 @@ Pretrained models:
 |---|---|----|
 |Portuguese|xlm-roberta-large|https://mega.nz/folder/LCBzga5A#_RonehX7eLF3sI95HNRzWQ|
 |Spanish|xlm-roberta-large|https://mega.nz/folder/bOZThATD#hie5QHgPF7VxNEhWx3uxDA|
+|German|slm-roberta-large|https://mega.nz/folder/vGR0RZRT#2w1zF9VRNApaBscnEdvv6A|
 
 ## How it works
 https://github.com/sviperm/neuro-comma  
