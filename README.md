@@ -11,7 +11,7 @@ Training Datasets in neuro-comma format:
 |Spanish|https://drive.google.com/file/d/1JHATFSu4amgz-cHcKXsSUyUs9T70kPa7/view?usp=sharing|  
   
   
-Neuro comma (puntuation-restoration) format: Oh, nun ja, dann wird sie es wohl gewesen sein. Wo sind die Karten geblieben?  
+Neuro-comma (puntuation-restoration) format: Oh, nun ja, dann wird sie es wohl gewesen sein. Wo sind die Karten geblieben?  
 
 turns into:  
 oh	COMMA  
