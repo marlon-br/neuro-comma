@@ -1,7 +1,7 @@
 Repo with trained punctuation restoration models for https://github.com/sviperm/neuro-comma and https://github.com/xashru/punctuation-restoration 
 
 Colab to prepare data for any language:
-https://colab.research.google.com/drive/1-EUY-Do3vR_h3htyjjAMR-zVQyUsaH-t?usp=sharing
+https://colab.research.google.com/drive/1-EUY-Do3vR_h3htyjjAMR-zVQyUsaH-t?usp=sharing  
 Just set right language in LANG1 and LANG2 parameters. Also you have to set right UTF-8 characters for you language: https://www.periodni.com/unicode_utf-8_encoding.html.
 
 Training Datasets in neuro-comma format:
