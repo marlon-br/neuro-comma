@@ -12,8 +12,12 @@ python inference.py --pretrained-model=roberta-large --weight-path=roberta-large
 Portuguese language punctuation restoration model:
 https://mega.nz/folder/LCBzga5A#_RonehX7eLF3sI95HNRzWQ
 
+Portuguese dataset in neuro-comma format: https://drive.google.com/file/d/1-0t7sskF3bKGeXiCOx4nL9R53-Z0f7ak/view?usp=sharing
+
 Spanish language punctuation restoration model:
 https://mega.nz/folder/bOZThATD#hie5QHgPF7VxNEhWx3uxDA
+
+Spanish dataaset in neuro-comma format: https://drive.google.com/file/d/1JHATFSu4amgz-cHcKXsSUyUs9T70kPa7/view?usp=sharing
 
 ## How it works
 https://github.com/sviperm/neuro-comma
