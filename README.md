@@ -2,22 +2,40 @@ Repo with trained punctuation restoration models for https://github.com/sviperm/
 
 Colab to prepare data for any language:
 https://colab.research.google.com/drive/1-EUY-Do3vR_h3htyjjAMR-zVQyUsaH-t?usp=sharing
-Just set right language in LANG1 and LANG2 parameters
-And set the right UTF-8 characters for you language 
+Just set right language in LANG1 and LANG2 parameters. Also you have to set right UTF-8 characters for you language: https://www.periodni.com/unicode_utf-8_encoding.html.
 
-All trained models are based on xlm-roberta-large, set it when call inference like 
-python inference.py --pretrained-model=roberta-large --weight-path=roberta-large-en.pt --language=en 
---in-file=data/test_en.txt --out-file=data/test_en_out.txt
+Training Datasets in neuro-comma format:
+|Dataset language|Google Drive Link|
+|---|----|
+|Portuguese|https://drive.google.com/file/d/1-0t7sskF3bKGeXiCOx4nL9R53-Z0f7ak/view?usp=sharing|
+|Spanish|https://drive.google.com/file/d/1JHATFSu4amgz-cHcKXsSUyUs9T70kPa7/view?usp=sharing|  
+  
+  
+Neuro comma (puntuation-restoration) format: Oh, nun ja, dann wird sie es wohl gewesen sein. Wo sind die Karten geblieben?  
 
-Portuguese language punctuation restoration model:
-https://mega.nz/folder/LCBzga5A#_RonehX7eLF3sI95HNRzWQ
+turns into:  
+oh	COMMA  
+nun	O  
+ja	COMMA  
+dann	O  
+wird	O  
+sie	O  
+es	O  
+wohl	O  
+gewesen	O  
+sein	PERIOD  
+wo	O  
+sind	O  
+die	O  
+karten	O  
+geblieben	QUESTION  
 
-Portuguese dataset in neuro-comma format: https://drive.google.com/file/d/1-0t7sskF3bKGeXiCOx4nL9R53-Z0f7ak/view?usp=sharing
-
-Spanish language punctuation restoration model:
-https://mega.nz/folder/bOZThATD#hie5QHgPF7VxNEhWx3uxDA
-
-Spanish dataaset in neuro-comma format: https://drive.google.com/file/d/1JHATFSu4amgz-cHcKXsSUyUs9T70kPa7/view?usp=sharing
+Pretrained models:
+|Model language|Base model|Google Drive Link|
+|---|---|----|
+|Portuguese|xlm-roberta-large|https://mega.nz/folder/LCBzga5A#_RonehX7eLF3sI95HNRzWQ|
+|Spanish|xlm-roberta-large|https://mega.nz/folder/bOZThATD#hie5QHgPF7VxNEhWx3uxDA|
 
 ## How it works
-https://github.com/sviperm/neuro-comma
+https://github.com/sviperm/neuro-comma  
+https://github.com/xashru/punctuation-restoration
