@@ -35,11 +35,11 @@ geblieben	QUESTION
 Pretrained models:
 |Model language|Base model|Google Drive Link|
 |---|---|----|
-|Portuguese|xlm-roberta-large|https://mega.nz/folder/LCBzga5A#_RonehX7eLF3sI95HNRzWQ|
-|Spanish|xlm-roberta-large|https://mega.nz/folder/bOZThATD#hie5QHgPF7VxNEhWx3uxDA|
-|German|xlm-roberta-large|https://mega.nz/folder/vGR0RZRT#2w1zF9VRNApaBscnEdvv6A|
-|Russian|xlm-roberta-large|https://mega.nz/folder/iWpGFD6B#iOe47mdLB6eE6ebwPbk_PA|
-|French|xlm-roberta-large|https://mega.nz/folder/jDYgibSQ#3rZKjf46AWEVh5mqve3ncg|
+|Portuguese|xlm-roberta-large|https://drive.google.com/file/d/1tjXmDSMgwF0iJsXw8sAGZop5CnMB16iM/view?usp=sharing|
+|Spanish|xlm-roberta-large|https://drive.google.com/file/d/1YGHFOdr4wJCHjNpwBBy7KQ6a0-jqpYzO/view?usp=sharing|
+|German|xlm-roberta-large|https://drive.google.com/file/d/1wPMWESDtmMgQDVsOWEKIjFOzzeJIzwRN/view?usp=sharing|
+|Russian|xlm-roberta-large|https://drive.google.com/file/d/1Gy6ezqAN8qHr9jhhH7yxhcZSeQjzl5g1/view?usp=sharing|
+|French|xlm-roberta-large|https://drive.google.com/file/d/1k8qoGH26KMYcnBuACYf_dYBqFWYYtubm/view?usp=sharing|
 |English (from punctuation-restoration)|roberta-large|https://drive.google.com/file/d/17BPcnHVhpQlsOTC8LEayIFFJ7WkL00cr/view?usp=sharing|
 
 ## How it works
