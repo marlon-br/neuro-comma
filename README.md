@@ -37,7 +37,7 @@ Pretrained models:
 |---|---|----|
 |Portuguese|xlm-roberta-large|https://drive.google.com/file/d/1tjXmDSMgwF0iJsXw8sAGZop5CnMB16iM/view?usp=sharing|
 |Spanish|xlm-roberta-large|https://drive.google.com/file/d/1YGHFOdr4wJCHjNpwBBy7KQ6a0-jqpYzO/view?usp=sharing|
-|German|xlm-roberta-large|https://drive.google.com/file/d/1wPMWESDtmMgQDVsOWEKIjFOzzeJIzwRN/view?usp=sharing|
+|German (qunatized|xlm-roberta-large|https://drive.google.com/file/d/1Tw4ISUVMPqMXIwEU0IFy5ldSLa9z7Zjt/view?usp=sharing|
 |Russian (quantized)|xlm-roberta-large|https://drive.google.com/file/d/1VgmF4wHbpftyWxZQrY7BJHOYdKYjZSBH/view?usp=sharing|
 |French|xlm-roberta-large|https://drive.google.com/file/d/1wg6GeRi5EKE_60bni3PWsDQM_IdpXIn_/view?usp=sharing|
 |English (from punctuation-restoration)|roberta-large|https://drive.google.com/file/d/17BPcnHVhpQlsOTC8LEayIFFJ7WkL00cr/view?usp=sharing|
