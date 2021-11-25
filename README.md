@@ -35,8 +35,8 @@ geblieben	QUESTION
 Pretrained models:
 |Model language|Base model|Google Drive Link|
 |---|---|----|
-|Portuguese|xlm-roberta-large|https://drive.google.com/file/d/1tjXmDSMgwF0iJsXw8sAGZop5CnMB16iM/view?usp=sharing|
-|Spanish|xlm-roberta-large|https://drive.google.com/file/d/1YGHFOdr4wJCHjNpwBBy7KQ6a0-jqpYzO/view?usp=sharing|
+|Portuguese (quantized)|xlm-roberta-large|https://drive.google.com/file/d/174kc3436Vck9jBYbkfr5gwY6bn5wki14/view?usp=sharing|
+|Spanish (quantized)|xlm-roberta-large|https://drive.google.com/file/d/1181DFuVoYIEiTqaAnNAVSQKe9n69xB49/view?usp=sharing|
 |German (qunatized|xlm-roberta-large|https://drive.google.com/file/d/1Tw4ISUVMPqMXIwEU0IFy5ldSLa9z7Zjt/view?usp=sharing|
 |Russian (quantized)|xlm-roberta-large|https://drive.google.com/file/d/1VgmF4wHbpftyWxZQrY7BJHOYdKYjZSBH/view?usp=sharing|
 |French|xlm-roberta-large|https://drive.google.com/file/d/1wg6GeRi5EKE_60bni3PWsDQM_IdpXIn_/view?usp=sharing|
